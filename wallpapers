@@ -1,13 +1,1 @@
-cd path/to/your-repo
 
-# Check if your images are in the folder
-git status
-
-# Add the images
-git add rcb trophy.jpg vk rp.jpg vktrophy.jpg  # or `git add .` to add everything
-
-# Commit the changes
-git commit -m "Added 3 images"
-
-# Push to GitHub
-git push origin main  # or 'master' if your branch name is that
