@@ -4,7 +4,7 @@ cd path/to/your-repo
 git status
 
 # Add the images
-git add img1.jpeg img2.png img3.jpg  # or `git add .` to add everything
+git add rcb trophy.jpg vk rp.jpg vktrophy.jpg  # or `git add .` to add everything
 
 # Commit the changes
 git commit -m "Added 3 images"
